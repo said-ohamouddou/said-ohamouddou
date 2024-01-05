@@ -4,5 +4,3 @@ I'm a data enthusiast with a love for all things Python. Whether it's cleaning d
 
 I enjoy digging into the math of the algorithms and techniques that power data science. But I also know the importance of practical applications and making ideas accessible to a wider audience.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=said-ohamouddou&show_icons=true&locale=en" alt="said-ohamouddou" /></p>
-
